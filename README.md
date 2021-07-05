@@ -4,8 +4,10 @@ The purpose of this election analysis audit was to gather the data and evaluate 
 
 ## Election-Audit Results:
 * In this congresional election there were 369,711 votes casted 
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* Jefferson county had 38,855 voters turnout, 10.5% of the total votes. Denver had 306,055 voters turnout, 82.8% of the total votes. Arapahoe had 24,801 voters turnout, 6.7% of the total vote.
 * Denver was the county with the largest number of votes
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+* Stockham recieved 85,213 votes which gained him 23.0% of the popular vote
+* DeGette recieved 272,892 votes which gained her 73.8% of the popular vote
+* Doane gained 11,606 votes which gained him 3.1% of the popular vote
+* We were able to difinitavly day that Diana DeGette won the election with a total vote count of 272,892, 73.8% of the popular vote.
 ## Election-Audit Summary
