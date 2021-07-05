@@ -1,13 +1,11 @@
 # Ballot Tallying with Pythhon
 ## Overview of Election Audit: 
-Explain the purpose of this election audit analysis.
+The purpose of this election analysis audit was to gather the data and evaluate the breakdown of voter turnout per county as well as declare a winner of the election.
 
 ## Election-Audit Results:
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
+* In this congresional election there were 369,711 votes casted 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
+* Denver was the county with the largest number of votes
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 ## Election-Audit Summary
